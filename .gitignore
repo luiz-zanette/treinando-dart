@@ -49,7 +49,6 @@ temp/
 node_modules/
 dist/
 build/
-bin/
 obj/
 /vendor/
 
